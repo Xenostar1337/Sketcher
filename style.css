@@ -1,0 +1,21 @@
+.header{
+    text-align: left;
+    margin-left: 390px;
+    margin-bottom: 10px;
+}
+
+.gridContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap : 0;
+    width: 960px;
+    height: 960px;
+    border: 2px solid black;
+}
+
+.gridContainer div {
+    background-color: black;
+    margin: 0px; 
+    padding: 0px;
+    
+}
